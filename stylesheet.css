@@ -20,8 +20,9 @@
     }
 
     /* Change background color of buttons on hover */
+/*N1 background-color: #EE1757;*/
     .tab button:hover {
-      background-color: #EE1757;
+      background-color: #000000;
       color: #ffffff;
     }
 
