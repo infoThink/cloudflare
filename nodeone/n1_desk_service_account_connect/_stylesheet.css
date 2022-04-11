@@ -89,7 +89,8 @@ p#count_data li pre {
   border: 0;
   color: #ffffff; 
   padding: 3px 5px;
-  font-size: 24px;
+  font-size: 12px;
+  margin: 0 auto;
   border-radius: 4px; 
   text-transform: uppercase; 
   display:none;
