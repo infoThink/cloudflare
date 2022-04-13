@@ -69,6 +69,10 @@
 #bill_address p{	font-size: 14px;}
 .tab{display: flex;justify-content: space-between;margin-bottom: 0;}
 .tabcontent input[type="button"] {background: #34393f;border: 0;color: #ffffff; padding: 3px 5px;font-size: 12px;border-radius: 4px; text-transform: uppercase;margin-left: 12px;}
+.tabcontent input[type="button"]:hover {
+      background-color: #EE1757;
+      color: #ffffff;
+    }
 .tabcontent tr {display: block;margin-bottom: 2px;}
 .tab {
   background: #676a6e;
@@ -97,5 +101,9 @@ p#count_data li pre {
   text-transform: uppercase; 
   display:none;
 }
+#unlink:hover {
+      background-color: #EE1757;
+      color: #ffffff;
+    }
 
 /* Enhanced CSS */
